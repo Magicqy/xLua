@@ -1,4 +1,9 @@
 .vs
+.vsconfig
+
+/obj
+/Logs
+/UserSettings
 /Library
 /ProjectSettings
 /Temp
